@@ -15,7 +15,7 @@ A mini knowledge base to kick off your not-so-scary learning journey with **regu
 - Self-collection of regex patterns
 - Regex for productivity hacks 
 
-> 📌 Note: Regex is easier to write but harder to make sense. So, keep a handy cheat-sheet and make a habit of going through random regex patterns and try to describe them 
+> 📌 Note: Regex is easier to write but harder to make sense. So, keep a handy **cheat-sheet** and make a habit of going through random regex patterns and try to describe them 
 
 ---
 ## 🎮 Regex-101 Learning
@@ -46,13 +46,21 @@ Module outline (based on `regexlearn.com`):
 ## Regex Patterns for Productivity 
 
 My collection of regex patterns:
-> ⚠ Collection with file links to be added later
+
+| Serial | Task                   | Regex|
+|--------|------------------------|-----------------------------------------------------------------------------------------------------------------|
+| 1      | URL Matching            | [Examples](regex-collection/url-matching) |
+| 2      | Taskname              | [Examples](#) |
 
 ---
 
 ## ⚒ Usage 
-- Use Regex-101 as a reference for concepts regarding regular expressions 
-- Examples follow three column structure:
+- Use [Regex-101](regex-101) as a reference for the concepts regarding regular expressions 
+    - Examples follow three column structure:
     `| Input file | regex | matched text |`
 
-- Check the collection for reuse or tweak it to your own need. 
+- Check the **[Regex for Productivity](regex-collection)** collection for reuse or tweak it to your own need. 
+    - To run through **Git Bash** on Windows, execute `$ grep -oP <REGEX> <FILE>`
+    - Options:
+        - `-o` show only the matches, not entire lines
+        - `-P` enables interpretation of PCRE (Perl Compatible Regular Expressions) 
