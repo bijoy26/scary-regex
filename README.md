@@ -63,4 +63,4 @@ My collection of regex patterns:
     - To run through **Git Bash** on Windows, execute `$ grep -oP <REGEX> <FILE>`
     - Options:
         - `-o` show only the matches, not entire lines
-        - `-P` enables interpretation of PCRE (Perl Compatible Regular Expressions) 
+        - `-P` enables interpretation of _PCRE (Perl Compatible Regular Expressions)_ 
