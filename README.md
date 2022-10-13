@@ -49,7 +49,7 @@ My collection of regex patterns:
 
 | Serial | Task                   | Regex|
 |--------|------------------------|-----------------------------------------------------------------------------------------------------------------|
-| 1      | URL Matching            | [Examples](regex-collection/url-matching) |
+| 1      | URL Matching            | [Examples](regex-collection/url-matching.md) |
 | 2      | Taskname              | [Examples](#) |
 
 ---
