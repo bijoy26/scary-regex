@@ -49,8 +49,8 @@ My collection of regex patterns:
 
 | Serial | Task                   | Regex|
 |--------|------------------------|-----------------------------------------------------------------------------------------------------------------|
-| 1      | URL Matching            | [Examples](regex-collection/url-matching.md) |
-| 2      | Taskname              | [Examples](#) |
+| 1      | URL Matching            | [Example](regex-collection/url-matching.md) |
+| 2      | Convert to CSV              | [Example](regex-collection/convert2csv.md) |
 
 ---
 
